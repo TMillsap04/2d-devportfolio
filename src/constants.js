@@ -1,0 +1,1 @@
+/*For dialog and scaling*/
