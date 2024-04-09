@@ -1,0 +1,1 @@
+/*Functions to make the code run and look nicer*/
